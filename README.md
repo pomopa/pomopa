@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm a Data Scientist based on Romeoville, IL</h1>
-<h3 align="center">I'm a passionate Data Scientist with strong background in computer systems, programming, and analytics. My experience spans from data analysis with Python to architecting data solutions that take complex information and turn it into actionable business insights.</h3>
+<h3 align="center">I'm a passionate Data Scientist with strong background in computer systems, programming, and analytics. My experience spans from data analysis and machine learning with Python to architecting data solutions that take complex information and turn it into actionable business insights.</h3>
 
 <h3 align="left">Connect with me 🤝</h3>
 <p align="left">
