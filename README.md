@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Data Scientist based on Chicago, IL</h1>
+f<h1 align="center">Hi 👋, I'm a Data Scientist based on Chicago, IL</h1>
 <h3 align="center">I'm a passionate Data Scientist with strong background in computer systems, programming, and analytics. My experience spans from data analysis and machine learning with Python to architecting data solutions that take complex information and turn it into actionable business insights.</h3>
 
 <h3 align="left">Connect with me 🤝</h3>
@@ -34,6 +34,7 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" alt="cypress" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/?hl=es-419" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/devrel-devsite/prod/ve08add287a6b4bdf8961ab8a1be50bf551be3816cdd70b7cc934114ff3ad5f10/firebase/images/touchicon-180.png" alt="firebase" width="40" height="40"/></a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/></a>
