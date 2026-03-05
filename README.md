@@ -43,6 +43,7 @@
   <img src="https://media.wired.com/photos/5955aeeead90646d424bb349/master/w_1600,h_1200,c_limit/google-tensor-flow-logo-black-S.jpg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/388785?s=280&v=4" alt="NetworkX" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  <img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview-1200x675.png" alt="Tableau" width="40" height="40"/>
 </p>
 
 ### ☁️ Cloud & Data Engineering (AWS)
@@ -51,18 +52,7 @@
   <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2"/>
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
   <img src="https://img.shields.io/badge/AWS_Glue%2FEMR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Glue/EMR"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-</p>
-
-### 📈 Visualization & BI
-<p>
-  <img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview-1200x675.png" alt="Tableau" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg" alt="Excel" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/AWS_RDS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS RDS"/>
 </p>
 
 ### 💻 Programming Languages
@@ -84,6 +74,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="Bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
 ### 🌐 Web & Mobile
